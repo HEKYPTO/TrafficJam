@@ -16,16 +16,19 @@
   Release more stablize dataset<br />
   Remove outliers and glitches in dataset<br />
   General bug fixed and performances issue<br />
+  <br />
  Version 1.2: <br />
   Change name to trafficJam.csv (from TRAFFICJAM.csv) <br />
   Fix data suitable for multivariate and additional datatype<br />
   Redefine and allocate outliers<br />
   General performance issues fix<br />
+  <br />
  Version 1.3:
   Allocate storage of dataset<br />
   Normalize trends and reconstruct trends of data<br />
   Redistribution on gitHUb and re-releases globally<br />
   Stable release for use and distribution <br />
+  <br />
   
  [==========> load dataset, we will meet again when time comes ! ! ! __________] <br />
  
