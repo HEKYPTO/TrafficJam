@@ -28,7 +28,6 @@
   Normalize trends and reconstruct trends of data<br />
   Redistribution on gitHUb and re-releases globally<br />
   Stable release for use and distribution <br />
-  <br />
   
  [==========> load dataset, we will meet again when time comes ! ! ! __________] <br />
  
